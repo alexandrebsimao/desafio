@@ -1,0 +1,19 @@
+html,
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.recados{
+	margin: 20px 0;
+}
+.glyphicon{
+	color: #000;
+}
+.glyphicon:hover{
+	color: #57C22D;
+	text-decoration: none;
+}
+.green{
+	color: #57C22D;
+}
