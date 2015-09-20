@@ -55,7 +55,8 @@
 	<br>
 
 	<div class="container">
-		<center>Desenvolvido por Alexandre Augusto Berns Simão | alexandre.b.simao@gmail.com</center>
+		<center>Desenvolvido por Alexandre Augusto Berns Simão | alexandre.b.simao@gmail.com | <a href="https://github.com/alexandrebsimao/desafio" target="_blank"> Github </a></center>
+		<br>
 	</div>
 </div>
 
